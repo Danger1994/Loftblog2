@@ -17,7 +17,7 @@ namespace IntegralWinForms
 
         private double SumIntegral(double x)
         {
-            return 7 * x - Math.Log(7 * x) + 8;
+            return 8 * x - Math.Log(7 * x) + 10;
         }
 
         public Form1()

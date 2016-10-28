@@ -76,3 +76,12 @@ C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinF
 C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
 C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
 C:\Users\Danger\Desktop\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
+I:\Loftblog2\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+I:\Loftblog2\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+I:\Loftblog2\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+I:\Loftblog2\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.exe
+I:\Loftblog2\IntegralWinForms\IntegralWinForms\bin\Debug\IntegralWinForms.pdb
+I:\Loftblog2\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csprojResolveAssemblyReference.cache
+I:\Loftblog2\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
+I:\Loftblog2\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
+I:\Loftblog2\IntegralWinForms\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
